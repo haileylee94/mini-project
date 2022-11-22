@@ -24,7 +24,7 @@
 	<jsp:include page="header.jsp"></jsp:include>
 	<section>
 		<h2>수강신청</h2>
-		<form action="insert.jsp" method="post" name="f" onsubmit="return check()">
+		<form action="index.jsp" method="post" name="f" onsubmit="return check()">
 			<table border="1">
 				<tr>
 					<td class="title">수강월</td>

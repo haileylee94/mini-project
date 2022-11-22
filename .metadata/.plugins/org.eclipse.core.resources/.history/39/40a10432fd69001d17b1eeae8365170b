@@ -36,7 +36,7 @@ function getValue(c_no){
 }
 
 function getvalue2(tuition){
-	if(c_no2 >= 20000)
+	if(c_no >= 20000)
 			document.getElementById('tuition').value =tuition/2;
 	else
 			document.getElementById('tuition').value =tuition;

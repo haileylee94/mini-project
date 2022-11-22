@@ -32,4 +32,12 @@ function res(){
 
 function getValue(c_no){
 	document.getElementById('c_no').value = c_no;
+	c_no2 = c_no; //아래에서 값을 불러오기 위해서
+}
+
+function getvalue2(tuition){
+	if(c_no2 >= 20000)
+			document.getElementById('tuition').value =tuition/2;
+	else
+			document.getElementById('tuition').value =tuition;
 }

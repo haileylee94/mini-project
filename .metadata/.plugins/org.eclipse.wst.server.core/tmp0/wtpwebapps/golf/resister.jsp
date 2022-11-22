@@ -24,7 +24,7 @@
 	<jsp:include page="header.jsp"></jsp:include>
 	<section>
 		<h2>수강신청</h2>
-		<form action="resister.jsp" method="post" name="f" onsubmit="return check()">
+		<form action="insert.jsp" method="post" name="f" onsubmit="return check()">
 			<table border="1">
 				<tr>
 					<td class="title">수강월</td>
@@ -50,17 +50,17 @@
 				<tr>
 					<td class="title">강의장소</td>
 					<td>
-						<input type="radio" name="class_area" value="1">서울본원
-						<input type="radio" name="class_area" value="2">성남분원
-						<input type="radio" name="class_area" value="3">대전분원
-						<input type="radio" name="class_area" value="4">부산분원
-						<input type="radio" name="class_area" value="5">대구분원
+						<input type="radio" name="class_area" value="서울본원">서울본원
+						<input type="radio" name="class_area" value="성남분원">성남분원
+						<input type="radio" name="class_area" value="대전분원">대전분원
+						<input type="radio" name="class_area" value="부산분원">부산분원
+						<input type="radio" name="class_area" value="대구분원">대구분원
 					</td>
 				</tr>
 				<tr>
 					<td class="title">강의명</td>
 					<td>
-						<select name="class_name" style="width: 150px;">
+						<select name="class_name" style="width: 150px;" onchange="getvalue2(this.value)">
 							<option value="">강의신청</option>
 							<option value="100000">초급반</option>
 							<option value="200000">중급반</option>
