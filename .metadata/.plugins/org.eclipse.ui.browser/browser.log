@@ -1,0 +1,104 @@
+
+11월 19, 2022 08:52:51.937 NEW SESSION
+11월 19, 2022 08:52:51.938 [11904:18108:1119/085251.935:ERROR:device_event_log_impl.cc(215)] [08:52:51.935] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+11월 19, 2022 08:53:49.793 [11904:17108:1119/085349.792:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 19, 2022 09:29:45.740 [11904:26400:1119/092945.739:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 19, 2022 09:29:45.748 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 19, 2022 09:29:45.756 ERROR: Failed parsing Certificate
+11월 19, 2022 09:29:45.764 
+11월 19, 2022 09:40:23.254 [11904:9692:1119/094023.253:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 19, 2022 09:40:23.262 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 19, 2022 09:40:23.271 ERROR: Failed parsing Certificate
+11월 19, 2022 09:40:23.278 
+11월 19, 2022 09:56:00.370 [11904:18108:1119/095600.369:ERROR:interface_endpoint_client.cc(690)] Message 0 rejected by interface blink.mojom.WidgetHost
+11월 19, 2022 10:04:38.441 [11904:8552:1119/100438.440:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 19, 2022 10:04:38.453 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 19, 2022 10:04:38.462 ERROR: Failed parsing Certificate
+11월 19, 2022 10:04:38.468 
+11월 19, 2022 13:53:48.422 [11904:23028:1119/135348.421:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 19, 2022 18:53:48.423 [11904:23028:1119/185348.422:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 19, 2022 22:11:14.570 [11904:2928:1119/221114.569:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 19, 2022 22:11:14.580 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 19, 2022 22:11:14.590 ERROR: Failed parsing Certificate
+11월 19, 2022 22:11:14.600 
+11월 19, 2022 23:53:48.439 [11904:2180:1119/235348.438:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 20, 2022 04:53:48.436 [11904:26616:1120/045348.435:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 20, 2022 07:49:00.394 [11904:12216:1120/074900.394:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 20, 2022 07:49:00.405 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 20, 2022 07:49:00.411 ERROR: Failed parsing Certificate
+11월 20, 2022 07:49:00.417 
+11월 20, 2022 08:08:18.649 [11904:12216:1120/080818.648:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 20, 2022 08:08:18.655 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 20, 2022 08:08:18.662 ERROR: Failed parsing Certificate
+11월 20, 2022 08:08:18.669 
+11월 20, 2022 08:08:42.864 [11904:1308:1120/080842.864:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 20, 2022 08:08:42.872 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 20, 2022 08:08:42.880 ERROR: Failed parsing Certificate
+11월 20, 2022 08:08:42.885 
+11월 20, 2022 09:53:48.448 [11904:11720:1120/095348.445:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 20, 2022 10:11:24.133 [11904:19996:1120/101124.132:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 20, 2022 10:11:24.140 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 20, 2022 10:11:24.150 ERROR: Failed parsing Certificate
+11월 20, 2022 10:11:24.156 
+11월 20, 2022 10:34:39.590 [11904:17952:1120/103439.588:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 20, 2022 10:34:39.597 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 20, 2022 10:34:39.604 ERROR: Failed parsing Certificate
+11월 20, 2022 10:34:39.609 
+11월 20, 2022 14:53:48.452 [11904:22792:1120/145348.449:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 20, 2022 19:53:48.458 [11904:22792:1120/195348.457:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 21, 2022 24:53:48.469 [11904:18440:1121/005348.464:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 21, 2022 05:53:48.477 [11904:18440:1121/055348.476:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 21, 2022 10:53:48.476 [11904:15436:1121/105348.473:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 21, 2022 11:33:36.811 [11904:8236:1121/113336.810:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 21, 2022 11:33:36.818 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 21, 2022 11:33:36.825 ERROR: Failed parsing Certificate
+11월 21, 2022 11:33:36.830 
+11월 21, 2022 11:35:04.374 [11904:24588:1121/113504.373:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 21, 2022 11:35:04.381 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 21, 2022 11:35:04.392 ERROR: Failed parsing Certificate
+11월 21, 2022 11:35:04.400 
+11월 21, 2022 11:35:58.325 [11904:22472:1121/113558.325:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 21, 2022 11:35:58.332 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 21, 2022 11:35:58.338 ERROR: Failed parsing Certificate
+11월 21, 2022 11:35:58.344 
+11월 21, 2022 11:38:06.654 [11904:18108:1121/113806.653:ERROR:interface_endpoint_client.cc(690)] Message 0 rejected by interface blink.mojom.WidgetHost
+11월 21, 2022 15:22:31.386 [11904:26532:1121/152231.384:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 21, 2022 15:22:31.396 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 21, 2022 15:22:31.402 ERROR: Failed parsing Certificate
+11월 21, 2022 15:22:31.407 
+11월 21, 2022 15:31:20.607 [1121/153120.605:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\jy1912\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\3728c768-2d3f-4664-9712-a77d1ab70d82: 지정된 파일을 찾을 수 없습니다. (0x2)
+11월 21, 2022 15:31:20.616 [1121/153120.608:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\jy1912\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\1a27a52d-7292-4173-8444-93c8d13d4c82: 지정된 파일을 찾을 수 없습니다. (0x2)
+11월 21, 2022 15:31:20.624 [1121/153120.609:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\jy1912\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\3728c768-2d3f-4664-9712-a77d1ab70d82: 지정된 파일을 찾을 수 없습니다. (0x2)
+11월 21, 2022 15:31:20.633 [1121/153120.610:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\jy1912\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\1a27a52d-7292-4173-8444-93c8d13d4c82: 지정된 파일을 찾을 수 없습니다. (0x2)
+11월 21, 2022 15:53:48.485 [11904:28300:1121/155348.484:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 21, 2022 17:13:41.834 [11904:3372:1121/171341.833:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 21, 2022 17:13:41.844 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 21, 2022 17:13:41.852 ERROR: Failed parsing Certificate
+11월 21, 2022 17:13:41.858 
+11월 21, 2022 17:13:57.424 [11904:5092:1121/171357.424:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 21, 2022 17:13:57.430 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 21, 2022 17:13:57.437 ERROR: Failed parsing Certificate
+11월 21, 2022 17:13:57.444 
+11월 21, 2022 19:00:48.519 [11904:9692:1121/190048.518:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 21, 2022 19:00:48.540 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 21, 2022 19:00:48.561 ERROR: Failed parsing Certificate
+11월 21, 2022 19:00:48.572 
+11월 21, 2022 19:00:48.601 [11904:9692:1121/190048.535:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 21, 2022 19:00:48.609 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 21, 2022 19:00:48.620 ERROR: Failed parsing Certificate
+11월 21, 2022 19:00:48.631 
+11월 21, 2022 19:00:48.954 [11904:13500:1121/190048.954:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 21, 2022 19:00:48.965 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 21, 2022 19:00:48.972 ERROR: Failed parsing Certificate
+11월 21, 2022 19:00:48.982 
+11월 21, 2022 20:53:48.497 [11904:5744:1121/205348.496:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 21, 2022 22:03:22.244 [11904:8896:1121/220322.243:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 21, 2022 22:03:22.252 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 21, 2022 22:03:22.260 ERROR: Failed parsing Certificate
+11월 21, 2022 22:03:22.266 
+11월 22, 2022 01:53:48.505 [11904:7780:1122/015348.504:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 22, 2022 06:53:48.506 [11904:7780:1122/065348.506:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 22, 2022 09:12:28.864 [11904:15928:1122/091228.862:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+11월 22, 2022 09:12:28.876 ERROR: Couldn't read tbsCertificate as SEQUENCE
+11월 22, 2022 09:12:28.883 ERROR: Failed parsing Certificate
+11월 22, 2022 09:12:28.889 

@@ -1,0 +1,57 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>resister</title>
+<style>
+	form{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.subbtn{
+		text-align: center;
+	}
+</style>
+</head>
+<body>
+	<jsp:include page="header.jsp"></jsp:include>
+	<section>
+		<h2>수강신청</h2>
+		<form action="resister.jsp" method="post" name="f" onsubmit="return check()">
+			<table border="1">
+				<tr>
+					<td>수강월</td>
+					<td><input name="resist_month"> &nbsp; 예)202203</td>
+				</tr>
+				<tr>
+					<td>회원명</td>
+					<td>
+						<select>
+							<option>회원명</option>
+							<option>홍길동</option>
+							<option>장발장</option>
+							<option>임꺽정</option>
+							<option>성춘향</option>
+							<option>이몽룡</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td>회원번호</td>
+					<td><input name="c_no" readonly></td>
+				</tr>
+				<tr>
+					<td class="subbtn" colspan="2">
+						<input type="submit" value="수강신청">
+						<input type="reset" value="다시쓰기" onclick="">
+					</td>
+				</tr>
+			</table>
+		</form>
+	</section>
+	<jsp:include page="footer.jsp"></jsp:include>
+</body>
+</html>

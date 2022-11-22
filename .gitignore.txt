@@ -1,0 +1,5 @@
+.classpath
+.settings
+Servers/
+.metadata/
+.gitignore.txt
