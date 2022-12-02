@@ -1,7 +1,4 @@
 INDEX VERSION 1.4+C:\hrdkorea\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1401234978.index
 3005380278.index
-1401234978.index
-1426709488.index
-2969753884.index
 2978827179.index
+2474935350.index
