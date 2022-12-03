@@ -22,11 +22,11 @@ form{
 	<jsp:include page="header.jsp"></jsp:include>
 	<section>
 		<h1>근무좌석예약</h1>
-		<form name="f" action="resv.jsp" method="post" onsubmit="return check()">
+		<form name="f" action="i_action.jsp" method="post" onsubmit="return check()">
 			<table border="1">
 				<tr>
 					<td>예약번호</td>
-					<td><input name="revno" id="revno">예)2021001</td>
+					<td><input name="resvno" id="resvno">예)2021001</td>
 				</tr>
 				<tr>
 					<td>사원번호</td>

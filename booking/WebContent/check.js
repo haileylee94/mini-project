@@ -20,3 +20,18 @@ function check(){
 		document.f.submit();
 	}
 }
+
+function search(){
+	if(fl.empno.value.length == 0){
+		alert("사원번호가 입력되지 않았습니다");
+		fl.empno.focus();
+		return false;
+	}else{
+		document.fl.submit();
+		return true;
+	}
+}
+
+function home(){
+	window.location='index.jsp';
+}
